@@ -1,5 +1,7 @@
 # Mat2Tab-Projekt
 
+|Całość do opracowania|
+
 Język: C++
 
 Technologia: #JakieśBiblioteki2D //Do omówienia
