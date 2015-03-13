@@ -2,22 +2,22 @@
 
 **Całość do opracowania**
 
-#####Język: C++
+####Język: C++
 
-#####Technologia: Unity3D
+####Technologia: Unity3D
 
 ___
 
 ####Główne założenia
 
 
-######Temat: Narzędzie do pomocy w nauce matematyki na tablicach interaktywnych.
+####**Temat: Narzędzie do pomocy w nauce matematyki na tablicach interaktywnych.**
 
 Cel główny: Bryły obrotowe
 
 Cel dodatkowy: Przekroje
 
-Cel zapasowy: Generowanie brył na podstawie rysowanych przez użytkowanika siatek
+Cel zapasowy: Generowanie brył
 
 ___
 
