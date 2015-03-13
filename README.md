@@ -2,7 +2,7 @@
 
 **Całość do opracowania**
 
-###Język: C++
+#####Język: C++
 
 #####Technologia: Unity3D
 
