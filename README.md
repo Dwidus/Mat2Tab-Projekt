@@ -1,17 +1,17 @@
-# Mat2Tab-Projekt
+## Mat2Tab-Projekt
 
-/*|Całość do opracowania|*/
+**Całość do opracowania**
 
-####Język: C++
+###Język: C++
 
-######Technologia: Unity3D
+#####Technologia: Unity3D
 
 ___
 
-####//Główne założenia//
+####Główne założenia
 
 
-#######Temat: Narzędzie do pomocy w nauce matematyki na tablicach interaktywnych.
+######Temat: Narzędzie do pomocy w nauce matematyki na tablicach interaktywnych.
 
 Cel główny: Bryły obrotowe
 
@@ -21,19 +21,19 @@ Cel zapasowy: Generowanie brył na podstawie rysowanych przez użytkowanika siat
 
 ___
 
-#####Cel Główny
+####Cel Główny
 
 /*Szczegółowy opis*/
 
 ___
 
-#####Cel dodatkowy
+####Cel dodatkowy
 
 /*Szczegółowy opis*/
 
 ___
 
-#####Cel zapasowy
+####Cel zapasowy
 
 /*Szczegółowy opis*/
 
