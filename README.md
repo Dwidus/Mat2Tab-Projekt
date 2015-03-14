@@ -2,7 +2,7 @@
 
 **Całość do opracowania**
 
-####Język: C++
+####Język: C# (Niestety ;_;)
 
 ####Technologia: Unity3D
 
@@ -23,18 +23,18 @@ ___
 
 ####Cel Główny
 
-/*Szczegółowy opis*/
+Program przedstawia powstawanie brył obrotowych. Użytkownik posiada możliwość wybrania figury płaskiej i narysowania do niej osi na podstawie której generowany jest obiekt 3d.
 
 ___
 
 ####Cel dodatkowy
 
-/*Szczegółowy opis*/
+Zestaw przygotowanych animacji tłumaczących krok po kroku czym są przekroje.
 
 ___
 
 ####Cel zapasowy
 
-/*Szczegółowy opis*/
+Generowanie opiera się na rysowanych przez użytkonika siatkach.
 
 ___
