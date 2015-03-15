@@ -13,6 +13,7 @@ ___
 
 ####**Temat: Narzędzie do pomocy w nauce matematyki na tablicach interaktywnych.**
 
+
 Cel główny: Bryły obrotowe
 
 Cel dodatkowy: Przekroje
