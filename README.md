@@ -2,9 +2,9 @@
 
 **Całość do opracowania**
 
-####Język: C# (Niestety ;_;)
+####Język: C ++
 
-####Technologia: Unity3D
+####Technologia: Unreal Engine
 
 ___
 
